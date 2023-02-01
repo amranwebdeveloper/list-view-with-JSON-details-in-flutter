@@ -1,0 +1,92 @@
+[
+    {
+        "id":0,
+        "image":"https://sandbox.bookingcore.org/uploads/demo/tour/tour-1.jpg",
+        "title":"American Parks Trail end Rapid City",
+        "details": "Start and end in San Francisco! With the in-depth cultural tour Northern California Summer 2019, you have a 8 day tour package taking you through San Francisco, USA and 9 other destinations in USA. Northern California Summer 2019 includes accommodation as well as an expert guide, meals, transport and more.",
+        "location":"American",
+        "price":"600",
+        "currency":"USD"
+    },
+    {
+        "id":1,
+        "image":"https://sandbox.bookingcore.org/uploads/demo/tour/tour-2.jpg",
+        "title":"New York: Museum of Modern Art ",
+        "details": "Start and end in San Francisco! With the in-depth cultural tour Northern California Summer 2019, you have a 8 day tour package taking you through San Francisco, USA and 9 other destinations in USA. Northern California Summer 2019 includes accommodation as well as an expert guide, meals, transport and more.",
+        "location":"New York",
+        "price":"575",
+        "currency":"USD"
+    },
+    {
+        "id":2,
+        "image":"https://sandbox.bookingcore.org/uploads/demo/tour/tour-3.jpg",
+        "title":"Los Angeles to San Francisco Express ",
+        "details": "Start and end in San Francisco! With the in-depth cultural tour Northern California Summer 2019, you have a 8 day tour package taking you through San Francisco, USA and 9 other destinations in USA. Northern California Summer 2019 includes accommodation as well as an expert guide, meals, transport and more.",
+        "location":"Los Angeles",
+        "price":"700",
+        "currency":"USD"
+    },
+    {
+        "id":3,
+        "image":"https://sandbox.bookingcore.org/uploads/demo/tour/tour-4.jpg",
+        "title":"Paris Vacation Travel ",
+        "details": "Start and end in San Francisco! With the in-depth cultural tour Northern California Summer 2019, you have a 8 day tour package taking you through San Francisco, USA and 9 other destinations in USA. Northern California Summer 2019 includes accommodation as well as an expert guide, meals, transport and more.",
+        "location":"Paris",
+        "price":"450",
+        "currency":"USD"
+    },
+    {
+        "id":4,
+        "image":"https://sandbox.bookingcore.org/uploads/demo/tour/tour-5.jpg",
+        "title":"Southwest States (Ex Los Angeles) ",
+        "details": "Start and end in San Francisco! With the in-depth cultural tour Northern California Summer 2019, you have a 8 day tour package taking you through San Francisco, USA and 9 other destinations in USA. Northern California Summer 2019 includes accommodation as well as an expert guide, meals, transport and more.",
+        "location":"Los Angeles",
+        "price":"900",
+        "currency":"USD"
+    },
+    {
+        "id":5,
+        "image":"https://sandbox.bookingcore.org/uploads/demo/tour/tour-6.jpg",
+        "title":"Eastern Discovery (Start New Orleans) ",
+        "details": "Start and end in San Francisco! With the in-depth cultural tour Northern California Summer 2019, you have a 8 day tour package taking you through San Francisco, USA and 9 other destinations in USA. Northern California Summer 2019 includes accommodation as well as an expert guide, meals, transport and more.",
+        "location":"American",
+        "price":"600",
+        "currency":"USD"
+    },
+    {
+        "id":6,
+        "image":"https://sandbox.bookingcore.org/uploads/demo/tour/tour-7.jpg",
+        "title":"Hollywood Sign Small Group Tour in Luxury Van ",
+        "details": "Start and end in San Francisco! With the in-depth cultural tour Northern California Summer 2019, you have a 8 day tour package taking you through San Francisco, USA and 9 other destinations in USA. Northern California Summer 2019 includes accommodation as well as an expert guide, meals, transport and more.",
+        "location":"Virginia",
+        "price":"600",
+        "currency":"USD"
+    },
+    {
+        "id":7,
+        "image":"https://sandbox.bookingcore.org/uploads/demo/tour/tour-8.jpg",
+        "title":"Segway Tour of Washington, D.C. Highlights ",
+        "details": "Start and end in San Francisco! With the in-depth cultural tour Northern California Summer 2019, you have a 8 day tour package taking you through San Francisco, USA and 9 other destinations in USA. Northern California Summer 2019 includes accommodation as well as an expert guide, meals, transport and more.",
+        "location":"Washington, DC",
+        "price":"600",
+        "currency":"USD"
+    },
+    {
+        "id":8,
+        "image":"https://sandbox.bookingcore.org/uploads/demo/tour/tour-9.jpg",
+        "title":"Dhaka Tour of D.C. Highlights ",
+        "details": "Start and end in San Francisco! With the in-depth cultural tour Northern California Summer 2019, you have a 8 day tour package taking you through San Francisco, USA and 9 other destinations in USA. Northern California Summer 2019 includes accommodation as well as an expert guide, meals, transport and more.",
+        "location":"Dhaka, DC",
+        "price":"2000",
+        "currency":"BDT"
+    },
+    {
+        "id":9,
+        "image":"https://sandbox.bookingcore.org/uploads/demo/tour/tour-10.jpg",
+        "title":"Darjeeling Tour of Washington, D.C. Highlights ",
+        "details": "Start and end in San Francisco! With the in-depth cultural tour Northern California Summer 2019, you have a 8 day tour package taking you through San Francisco, USA and 9 other destinations in USA. Northern California Summer 2019 includes accommodation as well as an expert guide, meals, transport and more.",
+        "location":"Darjeeling, DC",
+        "price":"300",
+        "currency":"RS"
+    }
+  ]
